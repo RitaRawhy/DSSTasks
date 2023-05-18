@@ -1,0 +1,11 @@
+C:\Users\Yassin\Desktop\ترم سادس\DSS\3AMLY\TaskDr\TaskDr\bin\Debug\TaskDr.exe.config
+C:\Users\Yassin\Desktop\ترم سادس\DSS\3AMLY\TaskDr\TaskDr\bin\Debug\TaskDr.exe
+C:\Users\Yassin\Desktop\ترم سادس\DSS\3AMLY\TaskDr\TaskDr\bin\Debug\TaskDr.pdb
+C:\Users\Yassin\Desktop\ترم سادس\DSS\3AMLY\TaskDr\TaskDr\obj\Debug\TaskDr.csproj.AssemblyReference.cache
+C:\Users\Yassin\Desktop\ترم سادس\DSS\3AMLY\TaskDr\TaskDr\obj\Debug\TaskDr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yassin\Desktop\ترم سادس\DSS\3AMLY\TaskDr\TaskDr\obj\Debug\TaskDr.Form1.resources
+C:\Users\Yassin\Desktop\ترم سادس\DSS\3AMLY\TaskDr\TaskDr\obj\Debug\TaskDr.Properties.Resources.resources
+C:\Users\Yassin\Desktop\ترم سادس\DSS\3AMLY\TaskDr\TaskDr\obj\Debug\TaskDr.csproj.GenerateResource.cache
+C:\Users\Yassin\Desktop\ترم سادس\DSS\3AMLY\TaskDr\TaskDr\obj\Debug\TaskDr.csproj.CoreCompileInputs.cache
+C:\Users\Yassin\Desktop\ترم سادس\DSS\3AMLY\TaskDr\TaskDr\obj\Debug\TaskDr.exe
+C:\Users\Yassin\Desktop\ترم سادس\DSS\3AMLY\TaskDr\TaskDr\obj\Debug\TaskDr.pdb

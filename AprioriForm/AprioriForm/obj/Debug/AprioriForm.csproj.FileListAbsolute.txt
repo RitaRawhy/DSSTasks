@@ -1,0 +1,11 @@
+C:\Users\rita rawhy\OneDrive\Desktop\AprioriForm\AprioriForm\bin\Debug\AprioriForm.exe.config
+C:\Users\rita rawhy\OneDrive\Desktop\AprioriForm\AprioriForm\bin\Debug\AprioriForm.exe
+C:\Users\rita rawhy\OneDrive\Desktop\AprioriForm\AprioriForm\bin\Debug\AprioriForm.pdb
+C:\Users\rita rawhy\OneDrive\Desktop\AprioriForm\AprioriForm\obj\Debug\AprioriForm.csproj.AssemblyReference.cache
+C:\Users\rita rawhy\OneDrive\Desktop\AprioriForm\AprioriForm\obj\Debug\AprioriForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\rita rawhy\OneDrive\Desktop\AprioriForm\AprioriForm\obj\Debug\AprioriForm.Properties.Resources.resources
+C:\Users\rita rawhy\OneDrive\Desktop\AprioriForm\AprioriForm\obj\Debug\AprioriForm.csproj.GenerateResource.cache
+C:\Users\rita rawhy\OneDrive\Desktop\AprioriForm\AprioriForm\obj\Debug\AprioriForm.csproj.CoreCompileInputs.cache
+C:\Users\rita rawhy\OneDrive\Desktop\AprioriForm\AprioriForm\obj\Debug\AprioriForm.exe
+C:\Users\rita rawhy\OneDrive\Desktop\AprioriForm\AprioriForm\obj\Debug\AprioriForm.pdb
+C:\Users\rita rawhy\OneDrive\Desktop\AprioriForm\AprioriForm\obj\Debug\AprioriForm.Form1.resources
